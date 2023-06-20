@@ -1,0 +1,3 @@
+name=test,
+number1=68,
+checkbox=true
